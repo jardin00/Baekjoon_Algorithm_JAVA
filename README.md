@@ -4,4 +4,4 @@
 * Backjoon Algorithm practice
 <br>
 #### Language: Java
-#### Tool: eclipse
+#### Tool: Eclipse
