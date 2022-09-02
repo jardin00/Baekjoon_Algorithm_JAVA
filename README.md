@@ -1,2 +1,7 @@
 # Baekjoon_Algorithm_JAVA
-백준 알고리즘 java 풀이
+
+### Summary
+* Backjoon Algorithm practice
+<br>
+#### Language: Java
+#### Tool: eclipse
